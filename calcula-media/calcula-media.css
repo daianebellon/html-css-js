@@ -1,0 +1,35 @@
+body{
+	background-color: #65bfff;
+}
+header{
+	color: #fff	;
+	font-size: 2.3em;
+	font-weight: bold;
+	text-align: center;
+}
+.form-notas{
+	position: relative;
+	left: 40%;
+}
+.notas{
+	width: 400px;
+	display: block;
+	padding: 10px;
+	margin: 15px;
+} 
+
+button {
+	width: 200px;
+	padding: 5px;
+	background-color: #ec6a55;
+	color: #fff;
+	position: relative;
+	left: 120px;	
+}
+
+#mostra-resultado{
+	color: #fff;
+	font-weight: bold;
+	font-size: 2em;
+	text-align: center;
+}
